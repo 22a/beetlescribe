@@ -1,6 +1,6 @@
 import React from "react";
 import Card from 'react-bootstrap/Card';
-import AddButton from "../button/button";
+import AddButton from "../button/addButton";
 
 
 export default class UnitBox extends React.Component {
