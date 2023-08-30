@@ -7,7 +7,9 @@ console.log(data)
 
 function App(): JSX.Element {
   return (
-    <EditorScreen></EditorScreen>
+    <EditorScreen
+      data={data}
+    />
   )
 }
 
